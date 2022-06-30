@@ -1,0 +1,27 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/three": "^0.84.28",
+    "@types/vectorious": "^4.3.3",
+    "nblas": "^1.2.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts-ts": "2.8.0",
+    "three": "^0.87.1",
+    "vectorious": "^4.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^21.1.5",
+    "@types/node": "^8.0.47",
+    "@types/react": "^16.0.19",
+    "@types/react-dom": "^16.0.2"
+  }
+}
